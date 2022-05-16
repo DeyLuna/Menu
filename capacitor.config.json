@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "PIA",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
